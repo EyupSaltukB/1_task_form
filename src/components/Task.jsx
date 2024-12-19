@@ -45,7 +45,7 @@ const Task = () => {
             <div className="mt-3">
               <div className="mb-3 text-start">
                 <label className="form-label fs-5">Label:</label>
-                <input className="form-control" />
+                <input className="form-control bg-dark text-light" />
                 <p className="text-secondary mt-1">
                   Please write label to here.
                 </p>
@@ -53,7 +53,7 @@ const Task = () => {
 
               <div className="mb-3 text-start">
                 <label className="form-label fs-5">Key:</label>
-                <input className="form-control" id="exampleInputPassword1" />
+                <input className="form-control bg-dark text-light" />
                 <p className="text-secondary mt-1">Please write key to here.</p>
               </div>
             </div>
